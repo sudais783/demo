@@ -1,0 +1,73 @@
+.logo{
+    display: flex;
+    padding: 30px;
+
+}
+.log{
+    padding: 15px;
+}
+.lig{
+    padding:15px ;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.aqdas{
+    padding: 80px;
+}
+.space{
+    display: flex;
+    justify-content: space-between;
+}
+.back{
+    padding: 100px;
+    margin: 10px;
+    font-size: 30px;
+    text-align: center;
+}
+.hola{
+    display: flex;
+    justify-content: space-between;
+}
+.message{
+    font-size: 40px;
+    text-align: center;
+    margin: 150px;
+}
+.future{
+    display: flex;
+    justify-content: space-between;
+}
+.size{
+    font-size: 50px;
+    text-align: center;
+}
+.hello{
+    font-size: 40px;
+    text-align: center;
+}
+.last{
+    text-align: center;
+    font-size: 20px;
+}
+.part{
+     width: 100px;
+     height: 100px;
+     display: flex;
+     margin-left: 500px;
+
+}
+.end{
+
+    margin:9%;
+}
+.two{
+    margin: 9%;
+}
+.we{
+    text-align: center;
+}
+.no{
+    text-align: center;
+}
