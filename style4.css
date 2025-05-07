@@ -1,0 +1,45 @@
+header{ 
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(200, 213, 224);
+}
+div{
+    font-size: 30px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(250, 246, 246);
+}
+.left{
+    background-color: rgb(200, 213, 224);
+    padding: 6%;
+    margin: 1%;
+    height: 500px;
+}
+
+main{
+    padding: 6%;
+    background-color: rgb(200, 213, 224);
+    width: 900px; 
+    text-align: center;
+    font-size: 50px;
+  margin: 1%;
+}
+.right{
+    background-color: rgb(200, 213, 224);
+    padding: 5%;
+    margin: 1%;
+    height: 530px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(200, 213, 224);
+    padding: 2%;
+}
+nav{
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(200, 213, 224);
+    margin: 6px;
+    width: 98%;
+
+}
